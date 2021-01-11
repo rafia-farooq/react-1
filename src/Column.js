@@ -9,7 +9,7 @@ export default class Column extends Component{
                     <h2 className={app.heading}>{this.props.heading}</h2>
                     <p className={app.para}>{this.props.paraOne}</p>
                     <p className={app.para}>{this.props.paraTwo}
-                        <a href={"https://www.w3schools.com/react"} target={"_blank"} className={app.link}> {this.props.link}</a>
+                        <a href={"https://www.w3schools.com/react"} className={app.link}> {this.props.link}</a>
                     </p>
                 </div>               
         
