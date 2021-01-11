@@ -6,7 +6,7 @@ export default class Column extends Component{
         return(
             
                 <div className={app.col}>
-                    <h2 className={app.heading, this.props.color}>{this.props.heading}</h2>
+                    <h2 className={app.heading}>{this.props.heading}</h2>
                     <p className={app.para}>{this.props.paraOne}</p>
                     <p className={app.para}>{this.props.paraTwo}
                         <a href={"https://www.w3schools.com/react"} target={"_blank"} className={app.link}> {this.props.link}</a>
