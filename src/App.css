@@ -1,0 +1,10 @@
+li{
+    list-style-type: lower-roman;
+    font-weight: bold;
+}
+
+body {
+    background-color: bisque;
+    margin: 5% 10%;
+}
+

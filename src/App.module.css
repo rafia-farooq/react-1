@@ -1,0 +1,64 @@
+.h:hover{
+    background-color: aquamarine;
+    width: 60%;
+}
+
+button {
+    padding: 5px 7px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:ivory;
+    margin: 10px;
+}
+
+h4{
+    font-style: italic;
+    font-size: 1rem;
+}
+
+span {
+    font-size: 24px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.col {
+    margin: 20px;
+    width: 30%;
+}
+
+
+.heading {
+    font-size: 1.75vw;
+    color: grey;
+}
+
+.para {
+    text-align: justify;
+    font-size: 18px;
+    line-height: 1.75rem;
+    margin-bottom: 30px;
+}
+
+.link {
+    color: black;
+    background-color: lightblue;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.blue{
+    color: navy;
+}
+
+.grey{
+    color: goldenrod;
+}
